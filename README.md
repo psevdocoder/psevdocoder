@@ -23,4 +23,6 @@ Swagger-документация к API: https://assistant.5pwjust.ru/api/swagge
 ### 3. [Group Assistant (Rewritten on Go)](https://github.com/psevdocoder/GroupAssist)
 In progress.
 
-Имлементация-переосмысление первого проекта на языке Go. Написание кода с внедрением чистой архитектуры проекта для обеспечения фреймворконезависимости и облегчения расширяемости приложения. Используется библиотека [SQLX](https://github.com/jmoiron/sqlx) на уровне репозиториев, фреймворк [Gin](https://github.com/gin-gonic/gin) на уровне Transport/REST для обработки http запросов. Реализован слой бизнес-логики приложения, использующий DTO для манипуляций. Внедрена [swagger-документация](https://github.com/swaggo/swag). 
+Имлементация-переосмысление первого проекта на языке Go. Написание кода с внедрением чистой архитектуры проекта для обеспечения фреймворконезависимости и облегчения расширяемости приложения. Используется библиотека [SQLX](https://github.com/jmoiron/sqlx) на уровне репозиториев, фреймворк [Gin](https://github.com/gin-gonic/gin) на уровне Transport/REST для обработки http запросов. Реализован слой бизнес-логики приложения, использующий DTO для манипуляций. Внедрена [swagger-документация](https://github.com/swaggo/swag). Для повышения RPS на GET запросах используется собственная реализация [InMemoryCache](https://github.com/psevdocoder/InMemoryCacheTTL) как gin-middleware.
+
+Больше деталей на [странице](https://github.com/psevdocoder/GroupAssist) репозитория
