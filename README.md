@@ -8,7 +8,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🔭 I’m currently working on [GroupAssist](https://github.com/psevdocoder/GroupAssist)
-- 🌱 I’m currently learning **Golang** with backend frameworks
+- 🌱 I’m currently learning **Golang** for backend.
 
 ## Основные проекты
 ### 1. [Group Assistant](https://github.com/psevdocoder/sipi_backend)
