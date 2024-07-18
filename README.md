@@ -1,11 +1,8 @@
 ## 💻 Tech Stack
 [![Golang](https://img.shields.io/badge/Golang-grey?style=flat&logo=go&logoColor=white&labelColor=dodgerblue&color=grey)](https://go.dev/)
-[![Static Badge](https://img.shields.io/badge/gRPC-blue?style=flat&logoColor=white&color=lightseagreen)](https://grpc.io/)
-[![Gin](https://img.shields.io/badge/Gin-grey?style=flat&logo=gin&logoColor=white&labelColor=dodgerblue&color=grey)](https://gin-gonic.com/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/fastAPI-grey?style=flat&logo=fastapi&logoColor=white&labelColor=lightseagreen&color=grey)](https://fastapi.tiangolo.com/)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
+[![gRPC](https://img.shields.io/badge/gRPC-blue?style=flat&logoColor=white&color=lightseagreen)](https://grpc.io/)
+[![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)](https://kafka.apache.org)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/Redis-grey?style=flat&logo=redis&logoColor=white&labelColor=red&color=grey)](https://redis.io/)
@@ -23,7 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🔭 I’m currently working on [GroupAssist](https://github.com/psevdocoder/GroupAssist) and [GoAuthGRPCService](https://github.com/psevdocoder/GoAuthGRPCService)
+
 
 ## Основные проекты
 ### 1. [Group Assistant](https://github.com/psevdocoder/sipi_backend)
