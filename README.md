@@ -3,8 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-blue?style=flat&logoColor=white&color=lightseagreen)](https://grpc.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)](https://kafka.apache.org)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Static Badge](https://img.shields.io/badge/Redis-grey?style=flat&logo=redis&logoColor=white&labelColor=red&color=grey)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://http://docker.com/)
 
